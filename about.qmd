@@ -1,57 +1,3 @@
-### My Interests 🤎
-
-I am deeply interested in harnessing the power of data to uncover insights and drive decision-making. My passion extends to exploring new technologies, working on challenging projects, and continually improving my skills in data science and analytics.
-
-### Technical Skills 👩🏻‍💻
-
--   **Programming Languages:** Python, JavaScript, SQL, HTML, CSS
-
--   **Data Visualization Tools:** Power-BI, Tableau
-
--   **Data Science and Machine Learning:** Data Analysis, Machine Learning, Deep Learning, Data Mining, Predictive Modeling, Neural Networks, Natural Language Processing (NLP)
-
--   **Software and Tools:** Git, MS Office (Excel, Word, PowerPoint)
-
-### Intrapersonal Skills 👩🏻‍💻
-
--   **Problem-Solving:** Demonstrated strong problem-solving skills through various projects and internships.
-
--   **Team Collaboration:** Proven ability to work effectively in team settings, contributing to project success.
-
--   **Attention to Detail:** Ensuring accuracy and precision in all aspects of work, from data analysis to model implementation.
-
--   **Communication:** Strong verbal and written communication skills, capable of presenting complex data insights clearly.
-
-### Certifications 🏅
-
--   [**Beginner to Advanced Python Programming**](https://www.udemy.com/certificate/UC-1a36e81d-1efb-4baf-b02f-a6c31e8bf1e6/)
-
--   [**AWS Cloud Foundation**](https://www.credly.com/badges/52940280-d1a8-4e0d-9ea3-fdab9ffdd37c/print)
-
--   [**Business Analytics Training**](https://trainings.internshala.com/view_certificate/E88D7814-A96F-CA8A-9034-A7FFDD0C20DB/6425E24A-9022-46FA-28F5-CCFDC241F951/)
-
--   [**Google Data Analytics Professional**](https://www.coursera.org/account/accomplishments/specialization/HVRCYWVR75VR)
-
-### Experience 💼
-
-#### [Tequed Labs](https://tequedlabs.learnyst.com/) (Aug. 2022 - Sep. 2022)
-
-**Software Engineering Intern**
-
--   Developed dynamic web applications and streamlined SQL databases to enhance user experience and support scalable operations.
-
--   Demonstrated strong problem-solving skills and the ability to work independently on technical tasks.
-
-#### [Hearthealth Technologies Private Limited](https://hearthealthtech.com/) (Oct. 2022 - May. 2023)
-
-**AI/ML Intern**
-
--   Spearheaded the design of an advanced image segmentation model using Fully Convolutional Neural Networks (FCNNs), significantly enhancing diagnostic accuracy for the OneCardio product.
-
--   Implemented the model effectively, optimizing performance and reliability in real-world diagnostic applications.
-
--   Managed research protocols and maintained precise data records, ensuring accuracy and attention to detail.
-
 ### Education 🎓
 
 #### University of Arizona (Expected Graduation: May 2025)
@@ -65,3 +11,81 @@ I am deeply interested in harnessing the power of data to uncover insights and d
 **BE in Computer Science Engineering**
 
 -   Relevant Courses: Big Data Analytics, C, Python, DBMS, Web Development, NoSQL Databases, Digital Image Processing, Data Structures and Applications, Data Mining and Warehousing.
+
+### Experience 💼
+
+#### Force for Health Network (Sep. 2024 -- Dec. 2024)
+
+**Associate Data Science Intern**
+
+**Skills:** Tableau, Power BI, Python, Data Analysis, Data Visualization, API Integration
+
+-   Created interactive dashboards visualizing health and economic metrics, streamlining decision-making for stakeholders.
+
+-   Developed real-time API workflows, boosting data processing speed by 50%.
+
+-   Deployed a chatbot to automate user queries, enhancing engagement and reducing response times.
+
+#### Center for Digital Humanities, University of Arizona (Jul. 2024 -- Present)
+
+**Graduate Assistant**
+
+**Skills:** Python, Unreal Engine, Android Development, Generative AI, XR Development
+
+-   Engineered MetaHuman virtual patients using Generative AI and Unreal Engine, revolutionizing medical training simulations.
+
+-   Enhanced robotic systems with GPT-powered computer vision, increasing interaction efficiency by 30%.
+
+-   Pioneered AR/VR modules for veterinary education, driving a 25% increase in student engagement with immersive tools.
+
+#### VSI Lab, ECE Department, University of Arizona (Jul. 2024 -- Aug. 2024)
+
+**Computer Vision Engineer**
+
+**Skills:** Python, Deep Learning, Neural Networks, LLM
+
+-   Directed self-supervised image segmentation using U-Net and ConvNexT, advancing image analysis precision.
+
+-   Implemented Fourier Convolution Neural Networks (LaMa) for image inpainting, elevating restoration accuracy.
+
+-   Developed LLM-based SAM (Segment Anything Model) for surgical video analysis, aiding cataract surgery insights.
+
+#### Hearthealth Technologies Private Limited (Oct. 2022 - May. 2023)
+
+**AI/ML Intern**
+
+**Skills:** Python, Deep Learning, Neural Networks
+
+-   Spearheaded the design of an advanced image segmentation model using Fully Convolutional Neural Networks (FCNNs), significantly enhancing diagnostic accuracy for the OneCardio product.
+
+-   Implemented the model effectively, optimizing performance and reliability in real-world diagnostic applications.
+
+-   Managed research protocols and maintained precise data records, ensuring accuracy and attention to detail.
+
+### Technical Skills 👩🏻‍💻
+
+-   **Programming Languages:** R, Python, JavaScript, HTML, CSS
+
+-   **Data Analysis and Visualization:** Power-BI, Tableau,
+
+-   **Data Science and Machine Learning:** Data Analysis, Machine Learning, Deep Learning, Data Mining, Predictive Modeling, Neural Networks, Natural Language Processing (NLP),
+
+-   **Software and Tools:** Git, MS Office (Excel, Word, PowerPoint), Doker
+
+-   **Database and Cloud:** SQL, Azure, AWS
+
+### Interpersonal Skills 👩🏻‍💻
+
+-   Problem-Solving, Team Collaboration, Attention to Detail, Communication, Multitasking
+
+### Certifications 🏅
+
+-   [**Beginner to Advanced Python Programming**](https://www.udemy.com/certificate/UC-1a36e81d-1efb-4baf-b02f-a6c31e8bf1e6/)
+
+-   [**AWS Cloud Foundation**](https://www.credly.com/badges/52940280-d1a8-4e0d-9ea3-fdab9ffdd37c/print)
+
+-   [**Business Analytics Training**](https://trainings.internshala.com/view_certificate/E88D7814-A96F-CA8A-9034-A7FFDD0C20DB/6425E24A-9022-46FA-28F5-CCFDC241F951/)
+
+-   [**Google Data Analytics Professional**](https://www.coursera.org/account/accomplishments/specialization/HVRCYWVR75VR)
+
+### 

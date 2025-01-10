@@ -2,11 +2,13 @@
 title: "Welcome to My Portfolio! 👋 😊"
 ---
 
-# [About](about.qmd) 🙋🏻‍♀️
+## [About](about.qmd) 🙋🏻‍♀️
 
 I am Chethana Thondebhavi Shantha Kumar, a passionate data scientist with a background in Computer Science Engineering and a Master's in Data Science. Skilled in data mining, deep learning, and data analytics with Python, Power-BI, and Tableau. Committed to diversity and inclusion, seeking to drive innovation and efficiency.
 
-# [Projects](projects.qmd) 🚀
+## [Professional Experience](about.qmd#Experience)💼
+
+## [Projects](projects.qmd) 🚀
 
 ❄️🌞 [Predicting Abnormal Climate in Arizona](projects.qmd#predicting-abnormal-climate-in-arizona)
 
@@ -20,4 +22,4 @@ I am Chethana Thondebhavi Shantha Kumar, a passionate data scientist with a back
 
 🗣️🕸️ ️ [NLP Statistics and web Scrapping]((projects.qmd#NLP-Statistics-and-web-Scrapping))
 
-# [Contact](contact.qmd) 📩
+## [Contact](contact.qmd) 📩
