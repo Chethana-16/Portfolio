@@ -1,7 +1,5 @@
 ## Education 🎓
 
-------------------------------------------------------------------------
-
 ### University of Arizona (Expected Graduation: May 2025)
 
 #### **Masters in Data Science**
@@ -15,8 +13,6 @@
 -   Relevant Courses: Big Data Analytics, C, Python, DBMS, Web Development, NoSQL Databases, Digital Image Processing, Data Structures and Applications, Data Mining and Warehousing.
 
 ## Experience 💼
-
-------------------------------------------------------------------------
 
 ### Force for Health Network (Sep. 2024 -- Dec. 2024)
 
@@ -71,8 +67,6 @@
 
 ## Technical Skills 👩🏻‍💻
 
-------------------------------------------------------------------------
-
 -   **Programming Languages:** R, Python, JavaScript, HTML, CSS
 
 -   **Data Analysis and Visualization:** Power-BI, Tableau, Looker
@@ -84,8 +78,6 @@
 -   **Database and Cloud:** SQL, Azure, AWS
 
 ## Certifications 🏅
-
-------------------------------------------------------------------------
 
 -   [**Beginner to Advanced Python Programming**](https://www.udemy.com/certificate/UC-1a36e81d-1efb-4baf-b02f-a6c31e8bf1e6/)
 
