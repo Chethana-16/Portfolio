@@ -1,22 +1,26 @@
-### Education 🎓
+## Education 🎓
 
-#### University of Arizona (Expected Graduation: May 2025)
+------------------------------------------------------------------------
 
-**Masters in Data Science**
+### University of Arizona (Expected Graduation: May 2025)
+
+#### **Masters in Data Science**
 
 -   Relevant Courses: Data Analysis and Visualization, Data Mining, AI, ML, Neural Networks, NLP, SQL Database, Data Warehousing.
 
-#### Dayanada Sagar Academy Of Technology and Management (Graduation: May 2023)
+### Dayanada Sagar Academy Of Technology and Management (Graduation: May 2023)
 
-**BE in Computer Science Engineering**
+#### **BE in Computer Science Engineering**
 
 -   Relevant Courses: Big Data Analytics, C, Python, DBMS, Web Development, NoSQL Databases, Digital Image Processing, Data Structures and Applications, Data Mining and Warehousing.
 
-### Experience 💼
+## Experience 💼
 
-#### Force for Health Network (Sep. 2024 -- Dec. 2024)
+------------------------------------------------------------------------
 
-**Associate Data Science Intern**
+### Force for Health Network (Sep. 2024 -- Dec. 2024)
+
+#### **Associate Data Science Intern**
 
 **Skills:** Tableau, Power BI, Python, Data Analysis, Data Visualization, API Integration
 
@@ -26,33 +30,36 @@
 
 -   Deployed a chatbot to automate user queries, enhancing engagement and reducing response times.
 
-#### Center for Digital Humanities, University of Arizona (Jul. 2024 -- Present)
+------------------------------------------------------------------------
 
-**Graduate Assistant**
+### Center for Digital Humanities, University of Arizona (Jul. 2024 -- Present)
+
+#### **Graduate Assistant**
 
 **Skills:** Python, Unreal Engine, Android Development, Generative AI, XR Development
 
--   Engineered MetaHuman virtual patients using Generative AI and Unreal Engine, revolutionizing medical training simulations.
+-   Designed MetaHuman virtual patients using Generative AI and Unreal Engine.
+-   Optimized robotic systems with computer vision and GPT integration.
+-   Led AR/VR projects for veterinary medicine education.
+-   Working as a deep-learning, Neural Networks and NLP tutor alongside.
 
--   Enhanced robotic systems with GPT-powered computer vision, increasing interaction efficiency by 30%.
+------------------------------------------------------------------------
 
--   Pioneered AR/VR modules for veterinary education, driving a 25% increase in student engagement with immersive tools.
+### VSI Lab, ECE Department, University of Arizona (Jul. 2024 -- Present)
 
-#### VSI Lab, ECE Department, University of Arizona (Jul. 2024 -- Aug. 2024)
-
-**Computer Vision Engineer**
+#### **Computer Vision Engineer**
 
 **Skills:** Python, Deep Learning, Neural Networks, LLM
 
--   Directed self-supervised image segmentation using U-Net and ConvNexT, advancing image analysis precision.
+-   Developing a novel image segmentation model that combines U-Net, Mamba, ConvNeXt, and LLM-powered SAM 2 to determine polyp severity with custom datasets
+-   Created LLM-based segmentation model for cataract surgery videos that segments specific areas/parts/tools based on user prompts
+-   Implement Fourier-based neural networks for high-fidelity image inpainting in digital media
 
--   Implemented Fourier Convolution Neural Networks (LaMa) for image inpainting, elevating restoration accuracy.
+------------------------------------------------------------------------
 
--   Developed LLM-based SAM (Segment Anything Model) for surgical video analysis, aiding cataract surgery insights.
+### Hearthealth Technologies Private Limited (Oct. 2022 - May. 2023)
 
-#### Hearthealth Technologies Private Limited (Oct. 2022 - May. 2023)
-
-**AI/ML Intern**
+#### **AI/ML Intern**
 
 **Skills:** Python, Deep Learning, Neural Networks
 
@@ -62,23 +69,23 @@
 
 -   Managed research protocols and maintained precise data records, ensuring accuracy and attention to detail.
 
-### Technical Skills 👩🏻‍💻
+## Technical Skills 👩🏻‍💻
+
+------------------------------------------------------------------------
 
 -   **Programming Languages:** R, Python, JavaScript, HTML, CSS
 
--   **Data Analysis and Visualization:** Power-BI, Tableau,
+-   **Data Analysis and Visualization:** Power-BI, Tableau, Looker
 
--   **Data Science and Machine Learning:** Data Analysis, Machine Learning, Deep Learning, Data Mining, Predictive Modeling, Neural Networks, Natural Language Processing (NLP),
+-   **Data Science and Machine Learning:** Data Analysis, Machine Learning, Deep Learning, Data Mining, Predictive Modeling, Neural Networks, Natural Language Processing (NLP)
 
 -   **Software and Tools:** Git, MS Office (Excel, Word, PowerPoint), Doker
 
 -   **Database and Cloud:** SQL, Azure, AWS
 
-### Interpersonal Skills 👩🏻‍💻
+## Certifications 🏅
 
--   Problem-Solving, Team Collaboration, Attention to Detail, Communication, Multitasking
-
-### Certifications 🏅
+------------------------------------------------------------------------
 
 -   [**Beginner to Advanced Python Programming**](https://www.udemy.com/certificate/UC-1a36e81d-1efb-4baf-b02f-a6c31e8bf1e6/)
 

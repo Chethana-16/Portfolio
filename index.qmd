@@ -4,22 +4,22 @@ title: "Welcome to My Portfolio! 👋 😊"
 
 ## [About](about.qmd) 🙋🏻‍♀️
 
-I am Chethana Thondebhavi Shantha Kumar, a passionate data scientist with a background in Computer Science Engineering and a Master's in Data Science. Skilled in data mining, deep learning, and data analytics with Python, Power-BI, and Tableau. Committed to diversity and inclusion, seeking to drive innovation and efficiency.
+I am Chethana Thondebhavi Shantha Kumar, a passionate data scientist with a background in Computer Science Engineering and a Master's in Data Science. Specializied in Computer Vision, Gen AI, LLMs, Deep Learning, NLP, Data Analysis, Data Visualization, ML Algorithms and ML models
 
 ## [Professional Experience](about.qmd#Experience)💼
 
 ## [Projects](projects.qmd) 🚀
 
-❄️🌞 [Predicting Abnormal Climate in Arizona](projects.qmd#predicting-abnormal-climate-in-arizona)
+❄️🌞Predicting Abnormal Climate in Arizona
 
-🫀🩺 [Segmentation and Refinement of Carotid Artery](projects.qmd#segmentation-and-refinement-of-carotid-artery)
+🫀🩺Segmentation and Refinement of Carotid Artery
 
-🤣🥺 [Sentiment Analysis: Analyzing Emotional Dynamics of Social Media](projects.qmd#sentiment-analysis-analyzing-emotional-dynamics-of-social-media)
+🤣🥺Sentiment Analysis: Analyzing Emotional Dynamics of Social Media
 
-👽🛸 [Alien Encounters](projects.qmd#Alien-Encounters)
+👽🛸Alien Encounters
 
-😊️📈 [World Happiness Report]((projects.qmd#World-Happiness-Report))
+😊️📈World Happiness Report
 
-🗣️🕸️ ️ [NLP Statistics and web Scrapping]((projects.qmd#NLP-Statistics-and-web-Scrapping))
+🗣️🕸️NLP Statistics and web Scrapping
 
 ## [Contact](contact.qmd) 📩
